@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+   
+        <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.css" integrity="sha512-9iWaz7iMchMkQOKA8K4Qpz6bpQRbhedFJB+MSdmJ5Nf4qIN1+5wOVnzg5BQs/mYH3sKtzY+DOgxiwMz8ZtMCsw==" crossorigin="anonymous" > -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" 
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <!-- <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" > -->
+        <link rel="stylesheet" href="styles.css">
+        <!-- <link rel="stylesheet" type="text/css" href="assets/styles/custom-style.css"/> -->
+
+        <title>hava durumu uygulaması</title>
+    
+    </head>
+    <body>
+        <div class="container my-5 mx-auto">
+            <h1 class="text-muted text-center my-4">Hava Durumu</h1>
+            <form class="konum-degistir my-4 text-center text-muted">
+                <label for="sehir">hava durumu için konum giriniz</label>
+                <input type="text" name="sehir" class="form-control p-4">
+            </form>
+            <div class="card shadow-lg rounded d-none">
+                <img src="https://via.placeholder.com/400X300" class="zaman crad-img-top">
+                 <div class="icon bg-light mx-auto text-center">
+                     <img src="" alt="">
+            </div>
+                     
+                     <div class="text-muted text-uppercase text-center detay">
+                     <h5 class="my-3"> Şehİr İsmİ</h5>
+                     <div class="my-3"> hava durumu</div>
+                     <div class="display-4 my-4">
+                       <span>sıcaklık</span>
+                       <span>&deg;C</span>
+                     </div>
+                 </div>
+            </div>
+        </div>
+
+        <script src="script/tahmin.js"></script>
+        <script src="script/app.js"></script>
+    </body>
+</html>
