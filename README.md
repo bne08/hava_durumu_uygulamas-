@@ -12,6 +12,8 @@
   
 * PROJE TASARIM
 
-   <img src="https://github.com/bne08/hava_durumu_uygulamas-/blob/main/tasarım.png"  width="300px" height="300px" />
+  *  <img src="https://github.com/bne08/hava_durumu_uygulamas-/blob/main/tasarım.png" width="300px" height="300px" />
+   
+  *  <img src="https://github.com/bne08/hava_durumu_uygulamas-/blob/main/tasarım2.png" width="300px" height="300px" />
   
   
