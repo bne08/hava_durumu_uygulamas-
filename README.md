@@ -11,7 +11,9 @@
   *  Projemizinin hava durumu iconları için ise "https://developer.accuweather.com" sitemizden iconlarımızın sırasına göre yeni iconlar projeye eklenmiştir.
   
 * PROJE TASARIM
-*  Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![]( https://github.com/bne08/hava_durumu_uygulamas-/blob/main/2021-01-30%20(3).png | width=100)
+
+<img src=" https://github.com/bne08/hava_durumu_uygulamas-/blob/main/2021-01-30%20(3).png"  width="200" height="400" />
   
   
