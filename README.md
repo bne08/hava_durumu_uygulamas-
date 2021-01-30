@@ -12,8 +12,6 @@
   
 * PROJE TASARIM
 
-![]( https://github.com/bne08/hava_durumu_uygulamas-/blob/main/2021-01-30%20(3).png | width=100)
-
-<img src=" https://github.com/bne08/hava_durumu_uygulamas-/blob/main/2021-01-30%20(3).png"  width="200" height="400" />
+   <img src="https://github.com/bne08/hava_durumu_uygulamas-/blob/main/tasarım.png"  weight/>
   
   
